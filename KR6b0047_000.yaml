@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0047/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛本行集經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0190.xml
+    old_id: T03n0190
+hash: sha256:4109790fc474bc869cb7009a1573bb6b44c9c4705c128f206733a1cc89aa132f
